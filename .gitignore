@@ -1,0 +1,7 @@
+.idea
+.venv
+venv
+my_agent
+my_config_agent
+my_first_agent
+/TheDayTripGenie/.env
