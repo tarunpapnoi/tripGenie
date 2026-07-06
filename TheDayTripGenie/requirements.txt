@@ -1,0 +1,6 @@
+google-adk
+google-genai
+plotly
+ipython
+load_dotenv
+#--pip install -r requirements.txt
